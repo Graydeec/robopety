@@ -1,6 +1,17 @@
 # Robopety
 Our project aim is to set up a secure Web Application (on Google Cloud Platform) which acts as the central hub for people looking to buy robot pets. If the project is successful we will be able to provide a safe platform for users to buy robo pets.
 
+## Preview
+
+<img src="./image/login_page.png">
+<img src="./image/user_page.png">
+<img src="./image/user_login_flow.png">
+
+## Guide
+
+1. User without any pets can pick a robot pet from the robot pet lists on the right.
+2. User with a robot pet must return their pet before picking another robot pet from the robot pet lists.
+
 
 ## Run Locally
 
